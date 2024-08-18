@@ -5,3 +5,5 @@
 3.[Check_Palindrome](https://leetcode.com/problems/palindrome-number/)
 
 4.[Armstrong_Number](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1)
+
+5.[Sum_of_all_devisor](https://www.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/1)
