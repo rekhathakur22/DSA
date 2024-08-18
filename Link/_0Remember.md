@@ -3,3 +3,5 @@
 2.[Reverse number](https://leetcode.com/problems/reverse-integer/description/)
 
 3.[Check_Palindrome](https://leetcode.com/problems/palindrome-number/)
+
+4.[Armstrong_Number](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1)
