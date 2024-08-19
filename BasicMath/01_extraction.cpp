@@ -49,10 +49,10 @@ int main()
 }
 
 /*
-time complexity : O(number of digit);
+time complexity : O(log10(N);
  loop is run until all digit not extracted'
 
- space complexity : O(number of digit);
+ space complexity : O(log10(N);
  extra space reqired for storing the extracted digit
  this extra space is equal to no of digits present in the number
  */
