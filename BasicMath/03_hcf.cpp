@@ -29,7 +29,7 @@ public:
   // TC = O(min(n1,n2));
   // SC = O(1);
 
-  // itering from back
+  // iterating from back
   int gcd_two(int n1, int n2)
   {
     int num = min(n1, n2);
@@ -47,11 +47,27 @@ public:
     return gcd;
   }
   // wrost case tc is O(min(n1,n2))
-  // but in best case it will reduce somehow
 
-  // Euclidean algorithm
+  /*******************************Euclidean algorithm******************************/
   // gcd(a,b)=gcd(a-b,a) a>b
   // gcd(0,a) = a;
+
+  // steps
+  // 1.take two number a and b
+  // 2. divide greater number with smaller one and find remainder
+  // 3.replace greater number with remainder
+  // 4.repeat until one of become zero
+  // 5.then return non zero number while one of them is zero
+  // 6.that non zero number will be gcd;
+
+  // logic
+  // if we continously substract then it takes much time
+  // example gcd(100,52) takes 16 steps
+
+  // if we use mathmetics and little logic
+  // and take modulo of greater num to smaller then reduce number of steps
+  // example gcd(100,52) takes 3 steps
+
   int gcd_three(int n1, int n2)
   {
     while (n1 > 0 && n2 > 0)
