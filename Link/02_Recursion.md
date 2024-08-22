@@ -2,4 +2,4 @@
 
 2.[sum of first n terms](https://www.geeksforgeeks.org/problems/sum-of-first-n-terms5843/1)
 
-3.[Find all factorial num less the and equal to n ] (https://www.geeksforgeeks.org/problems/find-all-factorial-numbers-less-than-or-equal-to-n3548/0?problemType=functional&difficulty%255B%255D=-1&page=1&query=problemTypefunctionaldifficulty%255B%255D-1page1)
+3.[find all factorial num less then and equal to n](https://www.geeksforgeeks.org/problems/find-all-factorial-numbers-less-than-or-equal-to-n3548/0?problemType=functional&difficulty%255B%255D=-1&page=1&query=problemTypefunctionaldifficulty%255B%255D-1page1)
