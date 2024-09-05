@@ -1,5 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
+#include <bits/stdc++.h>
+using namespace std;
 
 int main()
 {
@@ -29,10 +31,21 @@ int main()
   {
     hash[arr[i]] = hash[arr[i]] + 1;
   }
+  int max = *max_element(arr, arr + n);
+  int x = max + 1;
+  int hash[x] = {0};
+  for (int i = 0; i < n; i++)
+  {
+    hash[arr[i]] = hash[arr[i]] + 1;
+  }
 
   for (int i = 0; i < x; i++)
   {
+    for (int i = 0; i < x; i++)
+    {
 
+      cout << hash[i] << " ";
+    }
     cout << hash[i] << " ";
   }
 
@@ -43,9 +56,24 @@ int main()
   cout << endl;
   int q;
   cout << "enter the number of queries" << endl;
+  for (int i = 0; i < n; i++)
+  {
+    arr[i] = hash[arr[i]];
+  }
+  cout << endl;
+  int q;
+  cout << "enter the number of queries" << endl;
 
   cin >> q;
+  cin >> q;
 
+  while (q--)
+  {
+    int num;
+    cout << "enter the number" << endl;
+    cin >> num;
+    cout << hash[num] << " ";
+  }
   while (q--)
   {
     int num;
