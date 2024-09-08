@@ -15,7 +15,7 @@ int main()
   }
 
   // map
-  map<int, int> mpp;
+  unordered_map<int, int> mpp;
   for (int i = 0; i < n; i++)
   {
     mpp[arr[i]] = mpp[arr[i]] + 1;
@@ -40,8 +40,9 @@ int main()
   return 0;
 }
 
-// Time complexity  = O(N*log(N));
-// fetch from map
-// best case log (N)
-// worst case log (N)
-// average case log (N)
+
+// Time complexity  worst case= O(N*N);
+// fetch from map 
+// best case O(1)
+// worst case O(N)
+// average case O(1)
