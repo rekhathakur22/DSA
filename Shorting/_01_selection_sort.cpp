@@ -9,7 +9,7 @@ void selection_sort(vector<int> &vc)
   // loop run till second last element for swaping
   for (int i = 0; i < n - 1; i++)
   {
-    cout << i << endl;
+
     int min = i;
 
     // loop run till last element for finding min element
