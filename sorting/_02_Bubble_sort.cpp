@@ -8,12 +8,18 @@ void bubble_sort(int arr[], int n)
 {
   for (int i = n - 1; i >= 0; i--)
   {
+    int didswap = 0;
     for (int j = 0; j <= i - 1; j++)
     {
       if (arr[j] > arr[j + 1])
       {
         swap(arr[j], arr[j + 1]);
+        diswap = 1;
       }
+    }
+    if (didswap == 0)
+    {
+      break;
     }
   }
 }
@@ -34,3 +40,9 @@ int main()
   }
   return 0;
 }
+
+// TC
+// best case = O(n)
+// average case = O(n^2)
+// worst case = O(n^2)
+// SC O(1)
