@@ -27,6 +27,9 @@ int maxTwo(vector<int> &arr)
     }
   }
   return max;
+
+  // TC
+  // O(N)
 }
 
 int main()
