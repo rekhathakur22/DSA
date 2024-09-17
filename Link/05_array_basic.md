@@ -5,3 +5,5 @@
 3.[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)
 
 4.[remove duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+
+5[right rotate the array by k place](https://leetcode.com/problems/rotate-array/submissions/1393304246/)
