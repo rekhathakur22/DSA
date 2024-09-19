@@ -7,3 +7,5 @@
 4.[remove duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 
 5[right rotate the array by k place](https://leetcode.com/problems/rotate-array/submissions/1393304246/)
+
+6[move all zeros to the end](https://leetcode.com/problems/move-zeroes/submissions/1395778272/)
