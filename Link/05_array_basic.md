@@ -9,3 +9,5 @@
 5[right rotate the array by k place](https://leetcode.com/problems/rotate-array/submissions/1393304246/)
 
 6[move all zeros to the end](https://leetcode.com/problems/move-zeroes/submissions/1395778272/)
+
+7.[find union of two array ](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=union-of-two-sorted-arrays)
