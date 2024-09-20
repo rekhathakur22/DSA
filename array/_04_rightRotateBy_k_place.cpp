@@ -30,6 +30,11 @@ void rotate_array(vector<int> &nums, int k, int n)
     nums[j] = arr[j - k];
     j++;
   }
+
+  // time complexity
+  // O(n)
+  // space complexity
+  // O(n)
 }
 
 int main()
