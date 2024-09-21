@@ -13,3 +13,5 @@
 7.[find union of two array ](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=union-of-two-sorted-arrays)
 
 8.[find missing number from array](https://leetcode.com/problems/missing-number/)
+
+9[single number](https://leetcode.com/problems/single-number/)
