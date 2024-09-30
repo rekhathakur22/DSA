@@ -6,10 +6,6 @@ using namespace std;
  *
  * This function uses a map to store the prefix sums of the array and then iterates
  * through the array to find the longest subarray with a sum equal to K.
- *
- * Time complexity: O(n log n)
- * Space complexity: O(n)
- *
  * @param arr The input array.
  * @param n The size of the input array.
  * @param k The target sum.
@@ -59,7 +55,11 @@ int long_subArray_two(vector<int> &arr, int n, int k)
 
 int long_subArray_three(vector<int> &arr, int n, int k)
 {
-  // TC ~O(nlogn)  SC O(n)
+  /*
+   *Time complexity: O(n log n)
+   *Space complexity: O(n)
+   */
+
   map<int, int> preSum; // map for storing sum with corresponding index
 
   // Initialize the maximum length of the subarray
@@ -97,6 +97,33 @@ int long_subArray_three(vector<int> &arr, int n, int k)
   return maxLen;
 }
 
+int long_subArray_four(vector<int> &arr, int n, int k)
+{
+  // TC ~O(n^2)  SC O(1)
+  int sum = 0;
+  int maxLen = 0;
+  int left = -1;
+  int right = 0;
+
+  while (right < n)
+  {
+    sum += arr[right];
+    while (sum > k && left < right)
+    {
+      sum = sum - arr[left];
+      left++;
+    }
+
+    if (sum == k)
+    {
+      maxLen = max(maxLen, right - left);
+    }
+    right++;
+  }
+
+  return maxLen;
+}
+
 int main()
 {
   int n;
@@ -109,7 +136,7 @@ int main()
   int K;
   cout << "enter sum : K" << endl;
   cin >> K;
-  int len = long_subArray_three(arr, n, K);
+  int len = long_subArray_four(arr, n, K);
   cout << len;
   return 0;
 }
