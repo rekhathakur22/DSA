@@ -17,3 +17,5 @@
 9[single number](https://leetcode.com/problems/single-number/)
 
 10.[longest_possible_subarray](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=longest-sub-array-with-sum-k)
+
+11.[2 sum ](https://leetcode.com/problems/two-sum/description/)
