@@ -1,6 +1,21 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+/**
+ * Finds the length of the longest subarray with a sum equal to the given value K.
+ *
+ * This function uses a map to store the prefix sums of the array and then iterates
+ * through the array to find the longest subarray with a sum equal to K.
+ *
+ * Time complexity: O(n log n)
+ * Space complexity: O(n)
+ *
+ * @param arr The input array.
+ * @param n The size of the input array.
+ * @param k The target sum.
+ * @return The length of the longest subarray with a sum equal to K.
+ */
+
 int long_subArray_one(vector<int> &arr, int n, int k)
 {
   // TC ~O(n^3)  SC O(1)
@@ -41,7 +56,48 @@ int long_subArray_two(vector<int> &arr, int n, int k)
     return len;
   }
 }
-5 int main()
+
+int long_subArray_three(vector<int> &arr, int n, int k)
+{
+  // TC ~O(nlogn)  SC O(n)
+  map<int, int> preSum; // map for storing sum with corresponding index
+
+  // Initialize the maximum length of the subarray
+  int maxLen = 0;
+  int sum = 0;
+  for (int i = 0; i < n; i++) // starting sum from [0....n]
+  {
+    // Add current element to the sum
+    sum += arr[i];
+
+    // If the sum is equal to K, update the maximum length
+    if (sum == k)
+    {
+      maxLen = max(maxLen, i + 1);
+    }
+
+    // Calculate the remaining sum
+    int rem = sum - k;
+
+    // If the remaining sum is already in the map, update the maximum length
+    if (preSum.find(rem) != preSum.end())
+    {
+      int len = i - preSum[rem];
+      maxLen = max(maxLen, len);
+    }
+
+    // If the sum is not already in the map, add it
+    if (preSum.find(sum) == preSum.end())
+    {
+      preSum[sum] = i;
+    }
+  }
+
+  // Return the maximum length of the subarray
+  return maxLen;
+}
+
+int main()
 {
   int n;
   cin >> n;
@@ -53,7 +109,7 @@ int long_subArray_two(vector<int> &arr, int n, int k)
   int K;
   cout << "enter sum : K" << endl;
   cin >> K;
-  int len = long_subArray_two(arr, n, K);
+  int len = long_subArray_three(arr, n, K);
   cout << len;
   return 0;
 }
