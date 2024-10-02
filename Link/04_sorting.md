@@ -6,4 +6,4 @@
 
 4.[merge sort](https://www.geeksforgeeks.org/problems/merge-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=merge-sort)
 
-5.[sort 0,1,2](https://leetcode.com/problems/sort-colors/submissions/1409091608/)
+5.[sort 0,1,2](https://leetcode.com/problems/sort-colors/description/)
