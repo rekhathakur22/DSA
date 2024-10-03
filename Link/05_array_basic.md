@@ -21,3 +21,5 @@
 11.[2 sum ](https://leetcode.com/problems/two-sum/description/)
 
 12.[moores voting algorithm](https://leetcode.com/problems/majority-element/description/)
+
+13.[Kadane`s algo](https://leetcode.com/problems/maximum-subarray/)
