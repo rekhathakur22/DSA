@@ -23,3 +23,5 @@
 12.[moores voting algorithm](https://leetcode.com/problems/majority-element/description/)
 
 13.[Kadane`s algo](https://leetcode.com/problems/maximum-subarray/)
+
+14.[stock buy and sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/39038/kadane-s-algorithm-since-no-one-has-mentioned-about-this-so-far-in-case-if-interviewer-twists-the-input/)
