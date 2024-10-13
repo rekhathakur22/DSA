@@ -9,3 +9,5 @@
 5.[Sum_of_all_devisor](https://www.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/1)
 
 6.[GCD&LCM](https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1)
+
+7.[print all the divisors](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1)
