@@ -1,6 +1,21 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+int bitCount(int n)
+{
+  int ct = 0;
+
+  for (int i = 10; i >= 0; i--)
+  {
+    if ((n & (1 << i)) != 0)
+    {
+      ct++;
+    }
+  }
+
+  return ct;
+}
+
 int main()
 {
   int n;
@@ -33,5 +48,6 @@ int main()
   int toggleBit = n ^ (1 << a);
   cout << "after bit toggle n is:" << bitset<10>(toggleBit) << endl;
 
+  cout << "set bit count is " << bitCount(n);
   return 0;
 }
