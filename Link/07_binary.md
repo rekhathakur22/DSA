@@ -12,3 +12,6 @@ public:
         return n > 0 && (n & (n - 1)) == 0;
     }
 };
+
+```
+4.[set rightmost unset bit](https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1)
