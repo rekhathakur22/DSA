@@ -1,3 +1,5 @@
+Basic
+
 1.[find largest element ](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/0?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=largest-element-in-array)
 
 2.[find second largest element](https://www.geeksforgeeks.org/problems/second-largest3735/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=second-largest)
@@ -29,3 +31,5 @@
 15.[Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)
 
 16.[find leaders IN array](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=leaders-in-an-array)
+
+17.[Palindromic Array](https://www.geeksforgeeks.org/problems/palindromic-array-1587115620/1)
