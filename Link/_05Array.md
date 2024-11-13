@@ -35,3 +35,7 @@ Basic
 17.[Palindromic Array](https://www.geeksforgeeks.org/problems/palindromic-array-1587115620/1)
 
 18.[Array Subset of another array](https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1)
+
+Medium
+
+1.[Triple sum in array](https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1)
