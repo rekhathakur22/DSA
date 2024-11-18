@@ -38,6 +38,8 @@ Basic
 
 Medium
 
-1.[Triple sum in array](https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1)
+1.[pascals triangle](https://leetcode.com/problems/pascals-triangle/)
 
-2.[pascles triangle](https://leetcode.com/problems/pascals-triangle/)
+Two pointer 
+
+1.[Triple sum in array](https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1)
