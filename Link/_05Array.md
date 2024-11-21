@@ -40,8 +40,10 @@ Medium
 
 1.[pascals triangle](https://leetcode.com/problems/pascals-triangle/)
 
+2.[Majority Element ||](https://leetcode.com/problems/majority-element-ii/submissions/1459470670/)
+
 Two pointer 
 
 1.[Triple sum in array](https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1)
 
-2.[Majority Element ||](https://leetcode.com/problems/majority-element-ii/submissions/1459470670/)
+
