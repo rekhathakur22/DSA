@@ -46,4 +46,6 @@ Two pointer
 
 1.[Triple sum in array](https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1)
 
+2.[4 sum](https://leetcode.com/problems/4sum/submissions/1463575191/)
+
 
