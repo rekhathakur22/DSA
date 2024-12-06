@@ -44,6 +44,8 @@ Medium
 
 3.[Largest subarray with 0 sum](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1?category%5B%5D=Hash&company%5B%5D=Amazon&page=1&query=category%5B%5DHashcompany%5B%5DAmazonpage1company%5B%5DAmazoncategory%5B%5DHash&utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=largest-subarray-with-0-sum)
 
+4.[merge ovelapping subarray](https://leetcode.com/problems/merge-intervals/)
+
 Two pointer 
 
 1.[Triple sum in array](https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1)
