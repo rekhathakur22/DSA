@@ -46,6 +46,8 @@ Medium
 
 4.[merge ovelapping subarray](https://leetcode.com/problems/merge-intervals/)
 
+5.[merge sorted array](https://leetcode.com/problems/merge-sorted-array/)
+
 Two pointer 
 
 1.[Triple sum in array](https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1)
