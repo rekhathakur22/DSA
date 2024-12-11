@@ -36,6 +36,8 @@ Basic
 
 18.[Array Subset of another array](https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1)
 
+19.[Missing And Repeating](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=find-missing-and-repeating)
+
 Medium
 
 1.[pascals triangle](https://leetcode.com/problems/pascals-triangle/)
