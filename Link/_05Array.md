@@ -36,6 +36,8 @@ Basic
 
 18.[Array Subset of another array](https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1)
 
+19.[Missing And Repeating](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=find-missing-and-repeating)
+
 Medium
 
 1.[pascals triangle](https://leetcode.com/problems/pascals-triangle/)
@@ -43,6 +45,10 @@ Medium
 2.[Majority Element ||](https://leetcode.com/problems/majority-element-ii/submissions/1459470670/)
 
 3.[Largest subarray with 0 sum](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1?category%5B%5D=Hash&company%5B%5D=Amazon&page=1&query=category%5B%5DHashcompany%5B%5DAmazonpage1company%5B%5DAmazoncategory%5B%5DHash&utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=largest-subarray-with-0-sum)
+
+4.[merge ovelapping subarray](https://leetcode.com/problems/merge-intervals/)
+
+5.[merge sorted array](https://leetcode.com/problems/merge-sorted-array/)
 
 Two pointer 
 
