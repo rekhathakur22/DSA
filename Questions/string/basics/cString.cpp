@@ -19,9 +19,9 @@ int main()
   */
 
   /*input*/
-  // char str3[10];
-  // cin >> str3;
-  // cout << str3 << endl;
+  char str3[10];
+  cin >> str3;
+  cout << str3 << endl;
   /*
   -> we can take input string using cin
   -> defining the lenght of string is important like str[10] or str[100]
@@ -33,14 +33,14 @@ int main()
   */
 
   char str4[12];
-  // cin.getline(str4, 100);
+  cin.getline(str4, 100);
 
   /*
   input: rekha thakur
   output:rekha thakur
   */
 
-  // cin.getline(str4,100, '#');
+  cin.getline(str4, 100, '#');
   /*
   -> # : is work as delimiter
   -> delimiter is parameter of cin.getline(str,lenght,delim)
