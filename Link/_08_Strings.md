@@ -2,4 +2,4 @@
 
 2.[largest odd number in string](https://leetcode.com/problems/largest-odd-number-in-string/submissions/1524196397/)
 
-3.[largest common suffix](https://leetcode.com/problems/longest-common-prefix/)
+3.[largest common preffix](https://leetcode.com/problems/longest-common-prefix/)
