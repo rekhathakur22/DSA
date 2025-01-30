@@ -49,3 +49,7 @@ int main()
   cout << "largestOddNumber : " << ans << endl;
   return 0;
 }
+
+// Complexity
+// time complexity: O(n), where n is the length of the input string num.
+// space complexity: O(1) since we are not using any extra space that scales with the input size.
