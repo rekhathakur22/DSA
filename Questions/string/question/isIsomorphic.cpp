@@ -26,11 +26,11 @@ public:
 
 int main()
 {
-  int t;
+  int tc;
   cout << "enter the number of test cases" << endl;
-  cin >> t;
+  cin >> tc;
 
-  while (t--)
+  while (tc--)
   {
     string s;
     cout << "enter the string s: ";
