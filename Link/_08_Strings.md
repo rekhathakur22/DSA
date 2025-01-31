@@ -7,3 +7,5 @@
 4.[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/submissions/1525263470/)
 
 5.[rotate String](https://leetcode.com/problems/rotate-string/submissions/1526185962/)
+
+6.[anagram string](https://leetcode.com/problems/valid-anagram/description/)
