@@ -5,3 +5,5 @@
 3.[largest common preffix](https://leetcode.com/problems/longest-common-prefix/)
 
 4.[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/submissions/1525263470/)
+
+5.[rotate String](https://leetcode.com/problems/rotate-string/submissions/1526185962/)
