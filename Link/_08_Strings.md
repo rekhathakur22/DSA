@@ -9,3 +9,5 @@
 5.[rotate String](https://leetcode.com/problems/rotate-string/submissions/1526185962/)
 
 6.[anagram string](https://leetcode.com/problems/valid-anagram/description/)
+
+7.[Reverse the words in string](https://leetcode.com/problems/reverse-words-in-a-string/description/)
