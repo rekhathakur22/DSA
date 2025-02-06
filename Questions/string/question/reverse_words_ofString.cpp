@@ -49,3 +49,6 @@ int main()
   }
   return 0;
 }
+
+// tc: O(n) where n is length of string
+// sc: O(1)

@@ -1,0 +1,39 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+// constraints
+// -100<=nums[i]<=100
+// 1<=nums.length<=3 * 10^4
+// nums is sorted in non dreacsing order
+
+// MISTAKES
+// I confused between bitwise & operator and && logical oprator
+
+// firt approach that came into my mind
+
+int duplicate(vector<int> &nums)
+{
+  int n = nums.size();
+  vector<int> mpp; // stores all the unique elements present in nums
+  int count = 0;   // count the unique elements present in nums
+
+  int i = 0; // iterate over the all unique elements in entire nums
+  while (i < n)
+  {
+    mpp.push_back(nums[i]); // unique element push into mpp
+    count = count + 1;
+    int j = i + 1; // track all the elements equal to element present at ith index
+    while ((j < n) && (nums[i] == nums[j]))
+    {
+      j++;
+    }
+    // j stops at the index where new unique element is present
+    i = j;
+  }
+
+  for (int k = 0; k < count; k++)
+  {
+    nums[k] = mpp[k];
+  }
+  return count;
+}
