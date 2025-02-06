@@ -11,3 +11,5 @@
 6.[anagram string](https://leetcode.com/problems/valid-anagram/description/)
 
 7.[Reverse the words in string](https://leetcode.com/problems/reverse-words-in-a-string/description/)
+
+8.[sort char by frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
