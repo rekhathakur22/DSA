@@ -15,3 +15,5 @@
 8.[sort char by frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
 
 9.[maximum nesting depth of parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
+
+10.[Roman number to Integer and vice versa](https://leetcode.com/problems/roman-to-integer/)
