@@ -13,3 +13,5 @@
 7.[Reverse the words in string](https://leetcode.com/problems/reverse-words-in-a-string/description/)
 
 8.[sort char by frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
+
+9.[maximum nesting depth of parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
