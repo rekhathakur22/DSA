@@ -17,3 +17,5 @@
 9.[maximum nesting depth of parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
 
 10.[Roman number to Integer and vice versa](https://leetcode.com/problems/roman-to-integer/)
+
+11.[string to integer](https://leetcode.com/problems/string-to-integer-atoi/submissions/1535991069/)
