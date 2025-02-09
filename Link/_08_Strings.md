@@ -20,6 +20,6 @@
 
 11.[string to integer](https://leetcode.com/problems/string-to-integer-atoi/submissions/1535991069/)
 
-Two Pointer Method 
+Two Pointer /sliding window
 
 12 .[Substring with K distinct char](https://www.geeksforgeeks.org/problems/count-number-of-substrings4528/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=count-number-of-substrings)
