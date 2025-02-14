@@ -85,3 +85,11 @@ int main()
   // end(code)
   return 0;
 }
+
+/*
+tc:O(n)
+-we traverse the array once to construct the linked list , where n is the number of elements in array
+
+sc: O(n)
+- we use additional space n to store linked list node , where n is the number of elements in array
+*/
