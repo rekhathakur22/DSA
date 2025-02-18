@@ -7,6 +7,7 @@ Singly LL Basic
 3.[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)
 
 Doubly LL basic
+
 1.[Array to DLL](https://www.geeksforgeeks.org/problems/introduction-to-doubly-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=introduction-to-doubly-linked-list)
 
 2.[Insertion at given position](https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=insert-a-node-in-doubly-linked-list)
