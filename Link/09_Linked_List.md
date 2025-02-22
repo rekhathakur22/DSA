@@ -8,6 +8,8 @@ Singly LL Basic
 
 4.[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
+5.[Detect loop in LL](https://leetcode.com/problems/linked-list-cycle/submissions/1551893836/)
+
 Doubly LL basic
 
 1.[Array to DLL](https://www.geeksforgeeks.org/problems/introduction-to-doubly-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=introduction-to-doubly-linked-list)
