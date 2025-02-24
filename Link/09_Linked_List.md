@@ -10,6 +10,10 @@ Singly LL Basic
 
 5.[Detect loop in LL](https://leetcode.com/problems/linked-list-cycle/submissions/1551893836/)
 
+TortoiseHare algo
+
+6.[Find middle in LL](https://leetcode.com/problems/middle-of-the-linked-list/)
+
 Doubly LL basic
 
 1.[Array to DLL](https://www.geeksforgeeks.org/problems/introduction-to-doubly-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=introduction-to-doubly-linked-list)
