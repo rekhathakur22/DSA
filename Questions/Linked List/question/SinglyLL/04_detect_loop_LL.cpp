@@ -104,6 +104,27 @@ bool brute_force(Node *head)
   */
 }
 
+bool optimal(Node *head)
+{
+  // using tortoisehare algorithm
+  Node *slow = head;
+  Node *fast = head;
+  while (fast != NULL && fast->next != NULL)
+  {
+    if (slow == fast)
+      return true;
+    slow = slow->next;
+    fast = fast->next;
+  }
+  return false;
+  /*
+  tc: ~O(N)
+  - it will depend upon different test cases, N is num of nodes in LL
+  sc: O(1)
+  - using no extra space
+  */
+}
+
 int main()
 {
   List ll;
@@ -115,7 +136,7 @@ int main()
   cout << "enter the pos you want to create cycle: ";
   cin >> pos;
 
-  for (int i = 0; i <= n; i++)
+  for (int i = 0; i < n; i++)
   {
     int a;
     cin >> a;
@@ -124,6 +145,6 @@ int main()
 
   ll.create_cycle(pos);
   Node *head = ll.node();
-  cout << brute_force(head);
+  cout << optimal(head);
   return 0;
 }
