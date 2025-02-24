@@ -1,21 +1,21 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// APPROCH
-// 1.brute force
-// 2.better
-// 3. optimal
+// find largest element in array
 
-// brute force solution
-void maxOne(vector<int> &arr)
+int brute_force(vector<int> &arr)
 {
+  int n = arr.size();
   sort(arr.begin(), arr.end());
-  // TC
-  // nlog(n)
+
+  return arr[n - 1];
+  /*
+  tc: O(nlogn) which is tc of sorting n elements , n is num of elements in array
+  sc:O(1) using no extra space
+  */
 }
 
-// optimal solution
-int maxTwo(vector<int> &arr)
+int optimal(vector<int> &arr)
 {
   int max = arr[0];
   int n = arr.size();
@@ -27,23 +27,24 @@ int maxTwo(vector<int> &arr)
     }
   }
   return max;
-
-  // TC
-  // O(N)
+  /*
+  tc: O(n), traversing array once , n is number of elements in arr
+  sc: O(1), using no extra space
+  */
 }
 
 int main()
 {
   int n;
   cout << "enter the number of elements " << endl;
-  // taking input
-  cin >> n;
+  cin >> n; // taking input
+
   vector<int> arr(n);
   cout << "enter the elements " << endl;
-  // talking input from user
+
   for (int i = 0; i < n; i++)
   {
-    cin >> arr[i];
+    cin >> arr[i]; // talking input from user
   }
   maxOne(arr);
   int ans = maxTwo(arr);
@@ -51,3 +52,13 @@ int main()
 
   return 0;
 }
+
+/*
+array <= 10^6 store in main memory local or global
+array > 10^6 use heap or global array
+array > 10^9 not feasible to use
+*/
+
+/*
+Note: this could be more difficult if array size will increase
+*/

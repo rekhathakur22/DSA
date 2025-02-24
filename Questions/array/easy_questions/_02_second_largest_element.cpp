@@ -1,10 +1,10 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// brute force
-int sec_largest_one(vector<int> &arr, int n)
+// Find second largest element
+int brute_force(vector<int> &arr, int n)
 {
-  sort(arr.begin(), arr.end()); // time complexity Nlog(N)
+  sort(arr.begin(), arr.end()); )
 
   int max = arr[n - 1];
   for (int i = n - 2; i >= 0; i--)
@@ -12,6 +12,9 @@ int sec_largest_one(vector<int> &arr, int n)
     if (arr[i] < max)
       return arr[i];
   }
+  /*
+  tc: O(nlogn + n)
+  */
 }
 
 // optimal

@@ -8,55 +8,36 @@ class Solution
 public:
   string outermostParentheses(string s)
   {
-    // counts the number of open breakets incounter
-    int open = 0;
-    string op = "";
+    string op = ""; // empty string to store final output
+    int open = 0;   // track open brackets or balance
 
-    // traverse in string s
+    // iterate trough each character of string
     for (int i = 0; i < s.length(); i++)
     {
-      // check if string charcter is ( (open bracket or not)
-      //  anything in " " consider as string and '' consider as charcter
-      // mistake : s[i] == "("
-      // s[i] gives character of string and "(" it is string it will type mismatch error
-      if (s[i] == '(')
-      {
-        // if encounter with open bracket just increase the count by one
-        open++;
 
-        // if open bracket count is 1 then it means it is outermost bracket
-        if (open > 1)
+      if (s[i] == '(') // if open bracket encounter
+      {
+
+        open++; // increase the count by one
+
+        if (open > 1) // if open bracket count is 1 then it means it is outermost bracket
         {
-          op = op + "(";
+          op = op + "("; // add paranthesis in output string
         }
       }
 
-      else
+      else // if encounter with cose bracket
       {
-        // if encounter with cose bracket just decrease the count by one
-        open--;
-        // if open bracket count is 1 then it means it is outermost bracket
-        if (open > 0)
+
+        open--; //  decrease the countof open bracket by one
+
+        if (open > 0) // if open bracket count is 0 then it means it is outermost bracket (close parantesis)
         {
-          op = op + ")";
+          op = op + ")"; // add paranthesis in output string
         }
       }
     }
     return op;
-  }
-
-  string removeOuterParentheses(string S)
-  {
-    string res;
-    int opened = 0;
-    for (char c : S)
-    {
-      if (c == '(' && opened++ > 0)
-        res += c;
-      if (c == ')' && opened-- > 1)
-        res += c;
-    }
-    return res;
   }
 };
 
@@ -73,3 +54,11 @@ int main()
   cout << obj.outermostParentheses(s) << endl;
   return 0;
 }
+
+/*
+tc: O(n)
+-traverse in array only onece , n is number of parenthesis in string
+
+sc:O(n)
+-storing output string , in worst case , where n is number of parenthesis in input string
+*/
