@@ -14,7 +14,7 @@ TortoiseHare algo
 
 6.[Find middle in LL](https://leetcode.com/problems/middle-of-the-linked-list/)
 
-7.[detect loop in cycle](https://leetcode.com/problems/linked-list-cycle/)
+7.[detect loop in LL](https://leetcode.com/problems/linked-list-cycle/)
 
 Doubly LL basic
 
