@@ -8,7 +8,6 @@ Singly LL Basic
 
 4.[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
-5.[Detect loop in LL](https://leetcode.com/problems/linked-list-cycle/submissions/1551893836/)
 
 TortoiseHare algo
 
