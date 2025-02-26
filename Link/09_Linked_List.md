@@ -9,7 +9,7 @@ Singly LL Basic
 4.[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
 
-TortoiseHare algo
+TortoiseHare algo(2 slow and fast pointer)
 
 6.[Find middle in LL](https://leetcode.com/problems/middle-of-the-linked-list/)
 
