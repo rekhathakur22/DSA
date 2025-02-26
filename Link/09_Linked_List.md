@@ -18,6 +18,8 @@ TortoiseHare algo
 
 8.[Find starting node of cycle in LL](https://leetcode.com/problems/linked-list-cycle-ii/description/)
 
+9 . [Find length of loop](https://www.geeksforgeeks.org/problems/find-length-of-loop/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=find-length-of-loop)
+
 Doubly LL basic
 
 1.[Array to DLL](https://www.geeksforgeeks.org/problems/introduction-to-doubly-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=introduction-to-doubly-linked-list)
