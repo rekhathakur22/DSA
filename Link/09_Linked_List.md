@@ -23,6 +23,8 @@ TortoiseHare algo(2 slow and fast pointer)
 
 11.[Palindrome ll](https://leetcode.com/problems/palindrome-linked-list/description/)
 
+12.[RemoveNthFromEnd](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1557972587/)
+
 Doubly LL basic
 
 1.[Array to DLL](https://www.geeksforgeeks.org/problems/introduction-to-doubly-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=introduction-to-doubly-linked-list)
