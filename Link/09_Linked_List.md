@@ -19,6 +19,10 @@ TortoiseHare algo(2 slow and fast pointer)
 
 9 . [Find length of loop](https://www.geeksforgeeks.org/problems/find-length-of-loop/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=find-length-of-loop)
 
+10.[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)
+
+11.[Palindrome ll](https://leetcode.com/problems/palindrome-linked-list/description/)
+
 Doubly LL basic
 
 1.[Array to DLL](https://www.geeksforgeeks.org/problems/introduction-to-doubly-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=introduction-to-doubly-linked-list)
