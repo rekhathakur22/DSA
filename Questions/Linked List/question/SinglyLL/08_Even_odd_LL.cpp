@@ -43,6 +43,13 @@ public:
     odd->next = evenHead;
 
     return head;
+
+    /*
+    tc:O(N)
+    -there is two operation in linked list each of them taking N/2 time,N is nodes in LL
+    sc:O(1)
+    - using constant space
+    */
   }
 };
 
