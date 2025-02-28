@@ -8,15 +8,20 @@ Singly LL Basic
 
 4.[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
-5.[Detect loop in LL](https://leetcode.com/problems/linked-list-cycle/submissions/1551893836/)
 
-TortoiseHare algo
+TortoiseHare algo(2 slow and fast pointer)
 
 6.[Find middle in LL](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 7.[detect loop in LL](https://leetcode.com/problems/linked-list-cycle/)
 
 8.[Find starting node of cycle in LL](https://leetcode.com/problems/linked-list-cycle-ii/description/)
+
+9 . [Find length of loop](https://www.geeksforgeeks.org/problems/find-length-of-loop/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=find-length-of-loop)
+
+10.[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)
+
+11.[Palindrome ll](https://leetcode.com/problems/palindrome-linked-list/description/)
 
 Doubly LL basic
 
