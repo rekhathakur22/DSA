@@ -25,6 +25,8 @@ TortoiseHare algo(2 slow and fast pointer)
 
 12.[RemoveNthFromEnd](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1557972587/)
 
+13.[Delete the middle node](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
+
 Doubly LL basic
 
 1.[Array to DLL](https://www.geeksforgeeks.org/problems/introduction-to-doubly-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=introduction-to-doubly-linked-list)
