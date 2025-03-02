@@ -8,6 +8,8 @@ Singly LL Basic
 
 4.[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
+5.[Intersection of Two LL](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)
+
 
 TortoiseHare algo(2 slow and fast pointer)
 
