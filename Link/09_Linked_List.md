@@ -10,6 +10,8 @@ Singly LL Basic
 
 5.[Intersection of Two LL](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)
 
+6.[Add 1 to a LL number](https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=add-1-to-a-number-represented-as-linked-list)
+
 
 TortoiseHare algo(2 slow and fast pointer)
 
