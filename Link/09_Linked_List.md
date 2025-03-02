@@ -12,7 +12,7 @@ Singly LL Basic
 
 6.[Add 1 to a LL number](https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=add-1-to-a-number-represented-as-linked-list)
 
-
+7.[Add 2 numbers](https://leetcode.com/problems/add-two-numbers/description/)
 TortoiseHare algo(2 slow and fast pointer)
 
 6.[Find middle in LL](https://leetcode.com/problems/middle-of-the-linked-list/)
