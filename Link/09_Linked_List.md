@@ -14,11 +14,14 @@ Singly LL Basic
 
 7.[Add 2 numbers](https://leetcode.com/problems/add-two-numbers/description/)
 
+
 Hard problems of linked list 
 
 8.[Reverse Nodes in k-groups](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 
 9.[Rotate Linked List](https://leetcode.com/problems/rotate-list/)
+
+10.[flattening a linked list](https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=flattening-a-linked-list)
 
 TortoiseHare algo(2 slow and fast pointer)
 
