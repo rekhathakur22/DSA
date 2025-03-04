@@ -18,6 +18,8 @@ Hard problems of linked list
 
 8.[Reverse Nodes in k-groups](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 
+9.[Rotate Linked List](https://leetcode.com/problems/rotate-list/)
+
 TortoiseHare algo(2 slow and fast pointer)
 
 6.[Find middle in LL](https://leetcode.com/problems/middle-of-the-linked-list/)
