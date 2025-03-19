@@ -8,6 +8,20 @@ Singly LL Basic
 
 4.[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
+5.[Intersection of Two LL](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)
+
+6.[Add 1 to a LL number](https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=add-1-to-a-number-represented-as-linked-list)
+
+7.[Add 2 numbers](https://leetcode.com/problems/add-two-numbers/description/)
+
+
+Hard problems of linked list 
+
+8.[Reverse Nodes in k-groups](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+
+9.[Rotate Linked List](https://leetcode.com/problems/rotate-list/)
+
+10.[flattening a linked list](https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=flattening-a-linked-list)
 
 TortoiseHare algo(2 slow and fast pointer)
 
@@ -24,6 +38,8 @@ TortoiseHare algo(2 slow and fast pointer)
 11.[Palindrome ll](https://leetcode.com/problems/palindrome-linked-list/description/)
 
 12.[RemoveNthFromEnd](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1557972587/)
+
+13.[Delete the middle node](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
 
 Doubly LL basic
 

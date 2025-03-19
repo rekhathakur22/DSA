@@ -13,3 +13,7 @@
 7.[print all the divisors](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1)
 
 8.[factorial of large numbers](https://www.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1)
+
+Medium 
+
+9.[pow(x,n)](https://leetcode.com/problems/powx-n/description/)

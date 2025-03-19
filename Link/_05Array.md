@@ -20,7 +20,6 @@ Basic
 
 10.[longest_possible_subarray](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=longest-sub-array-with-sum-k)
 
-11.[2 sum ](https://leetcode.com/problems/two-sum/description/)
 
 12.[moores voting algorithm](https://leetcode.com/problems/majority-element/description/)
 
@@ -55,5 +54,7 @@ Two pointer
 1.[Triple sum in array](https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1)
 
 2.[4 sum](https://leetcode.com/problems/4sum/submissions/1463575191/)
+
+3.[2 sum](https://leetcode.com/problems/two-sum/)
 
 
