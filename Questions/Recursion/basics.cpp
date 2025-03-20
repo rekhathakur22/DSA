@@ -1,17 +1,44 @@
 #include <iostream>
 using namespace std;
 
-void test(int count)
+// print 1-N using backtracking
+
+void printN(int i, int N)
 {
-  if (count == 0)
+  // base condition
+  if (i < 1)
+  {
     return;
-  cout << "test" << endl;
-  test(--count);
+  }
+
+  // call the function again
+  printN(i - 1, N);
+
+  // print i
+  cout << i << " ";
 }
 
+/*
+TC: O(N)
+SC:O(N) stack space call
+*/
+
+// print N - 1 using backtraking
+void printN_1(int i, int N)
+{
+  // Base condition
+  if (i > N)
+    return;
+
+  // call the function again
+  printN_1(i + 1, N);
+  // print i
+  cout << i << " ";
+}
 int main()
 {
-  int count = 5;
-  test(count);
+  int N;
+  cin >> N;
+  printN_1(1, N);
   return 0;
 }
