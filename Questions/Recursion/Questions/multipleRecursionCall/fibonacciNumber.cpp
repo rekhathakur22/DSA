@@ -26,5 +26,6 @@ int main()
 Tc:O(2^n)
 - exponential in nature , because every function call couple of functions
 
-Sc:
+Sc:O(N)
+- The maximum depth of the recursion tree is N
 */
