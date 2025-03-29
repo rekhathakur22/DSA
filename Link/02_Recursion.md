@@ -8,11 +8,11 @@
 
 5.[Print all the subsets *(Imp)](https://leetcode.com/problems/subsets/submissions/1577947436/)
 
-6. [subsets 2](https://leetcode.com/problems/subsets-ii/)
+6.[subsets 2](https://leetcode.com/problems/subsets-ii/)
 
 7.[subset sum 1](https://www.geeksforgeeks.org/problems/subset-sums2234/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=subset-sums)
 
-7.[Combination Sum *(imp)](https://leetcode.com/problems/combination-sum/submissions/1587819087/)
+8.[Combination Sum *(imp)](https://leetcode.com/problems/combination-sum/submissions/1587819087/)
 
-8.[Combination Sum 2 *(imp)](https://leetcode.com/problems/combination-sum-ii/submissions/1589126435/)
+9.[Combination Sum 2 *(imp)](https://leetcode.com/problems/combination-sum-ii/submissions/1589126435/)
 
