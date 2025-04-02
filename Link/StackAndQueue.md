@@ -6,4 +6,4 @@ Infix , Postfix , Prefix conversion
 
 Basic
 
-1.[Min Stack]()
+1.[Min Stack](https://leetcode.com/problems/min-stack/)
