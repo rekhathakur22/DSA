@@ -9,3 +9,5 @@ Basic
 1.[Min Stack](https://leetcode.com/problems/min-stack/)
 
 2.[Valid Parenthesis}](https://leetcode.com/problems/valid-parentheses/submissions/1596175612/)
+
+3.[Next greater element |](https://leetcode.com/problems/next-greater-element-i/description/)
