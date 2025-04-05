@@ -11,6 +11,12 @@ Basic
 
 2.[Valid Parenthesis}](https://leetcode.com/problems/valid-parentheses/submissions/1596175612/)
 
+Monotonic stack
+
 3.[Next greater element |](https://leetcode.com/problems/next-greater-element-i/description/)
 
 4.[Next greater element ||](https://leetcode.com/problems/next-greater-element-ii/submissions/1597240746/)
+
+prefix max, suffix max
+
+1.[Trapping rain water](https://leetcode.com/problems/trapping-rain-water/submissions/1597303748/)
