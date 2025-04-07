@@ -17,6 +17,8 @@ Monotonic stack
 
 4.[Next greater element ||](https://leetcode.com/problems/next-greater-element-ii/submissions/1597240746/)
 
+5.[Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/submissions/1599860273/)
+
 prefix max, suffix max
 
 1.[Trapping rain water](https://leetcode.com/problems/trapping-rain-water/submissions/1597303748/)
