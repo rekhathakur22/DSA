@@ -22,3 +22,7 @@ Monotonic stack
 prefix max, suffix max
 
 1.[Trapping rain water](https://leetcode.com/problems/trapping-rain-water/submissions/1597303748/)
+
+Stack or List
+
+1.[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/submissions/1600314571/)
