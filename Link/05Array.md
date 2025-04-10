@@ -6,11 +6,8 @@ Basic
 
 3.[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)
 
-4.[remove duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 
 5[right rotate the array by k place](https://leetcode.com/problems/rotate-array/submissions/1393304246/)
-
-6[move all zeros to the end](https://leetcode.com/problems/move-zeroes/submissions/1395778272/)
 
 7.[find union of two array ](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=union-of-two-sorted-arrays)
 
@@ -56,5 +53,10 @@ Two pointer
 2.[4 sum](https://leetcode.com/problems/4sum/submissions/1463575191/)
 
 3.[2 sum](https://leetcode.com/problems/two-sum/)
+
+4.[remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+
+6.[move all zeros to the end](https://leetcode.com/problems/move-zeroes/submissions/1395778272/)
+
 
 
