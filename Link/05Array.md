@@ -34,6 +34,10 @@ Basic
 
 19.[Missing And Repeating](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=find-missing-and-repeating)
 
+Kadanes Algorithm
+
+1.[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+
 Medium
 
 1.[pascals triangle](https://leetcode.com/problems/pascals-triangle/)
