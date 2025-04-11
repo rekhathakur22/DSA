@@ -9,3 +9,5 @@ Easy
  Medium 
 
  1.[Fractional Knapsack](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1)
+
+ 2.[Valid Parenthesis](https://leetcode.com/problems/valid-parenthesis-string/submissions/1603612073/)
