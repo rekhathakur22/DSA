@@ -6,6 +6,8 @@ Easy
 
 3. [Jump Game - 1](https://leetcode.com/problems/jump-game/submissions/1604784656/)
 
+4. [Jump Game -2](https://leetcode.com/problems/jump-game-ii/)
+
  Medium 
 
  1.[Fractional Knapsack](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1)
