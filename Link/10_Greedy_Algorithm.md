@@ -4,7 +4,7 @@ Easy
 
 2. [Lemonade Change](https://leetcode.com/problems/lemonade-change/submissions/1600386370/)
 
-[Minimum Jumps](https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1)
+3. [Jump Game - 1](https://leetcode.com/problems/jump-game/submissions/1604784656/)
 
  Medium 
 
