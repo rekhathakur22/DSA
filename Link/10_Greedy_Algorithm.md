@@ -19,3 +19,5 @@ Easy
  4.[Insert Intervals](https://leetcode.com/problems/insert-interval/)
 
  5.[Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+
+ 6.[Interval Insertion Fix](https://leetcode.com/problems/non-overlapping-intervals/submissions/1618773774/)
