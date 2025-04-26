@@ -17,3 +17,5 @@ Easy
  3.[Job Sequencing Problem](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1)
 
  4.[Insert Intervals](https://leetcode.com/problems/insert-interval/)
+
+ 5.[Merge Intervals](https://leetcode.com/problems/merge-intervals/)
