@@ -6,11 +6,8 @@ Basic
 
 3.[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)
 
-4.[remove duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 
 5[right rotate the array by k place](https://leetcode.com/problems/rotate-array/submissions/1393304246/)
-
-6[move all zeros to the end](https://leetcode.com/problems/move-zeroes/submissions/1395778272/)
 
 7.[find union of two array ](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=union-of-two-sorted-arrays)
 
@@ -23,8 +20,6 @@ Basic
 
 12.[moores voting algorithm](https://leetcode.com/problems/majority-element/description/)
 
-13.[Kadane`s algo](https://leetcode.com/problems/maximum-subarray/)
-
 14.[stock buy and sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/39038/kadane-s-algorithm-since-no-one-has-mentioned-about-this-so-far-in-case-if-interviewer-twists-the-input/)
 
 15.[Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)
@@ -36,6 +31,10 @@ Basic
 18.[Array Subset of another array](https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1)
 
 19.[Missing And Repeating](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=find-missing-and-repeating)
+
+Kadanes Algorithm
+
+1.[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 
 Medium
 
@@ -56,5 +55,10 @@ Two pointer
 2.[4 sum](https://leetcode.com/problems/4sum/submissions/1463575191/)
 
 3.[2 sum](https://leetcode.com/problems/two-sum/)
+
+4.[remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+
+6.[move all zeros to the end](https://leetcode.com/problems/move-zeroes/submissions/1395778272/)
+
 
 
