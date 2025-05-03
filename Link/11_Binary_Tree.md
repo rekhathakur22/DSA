@@ -1,0 +1,5 @@
+1. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/1624311871/)
+
+2. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1624314533/)
+
+3. .[Level order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1624354047/)
