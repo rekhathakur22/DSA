@@ -3,3 +3,5 @@
 2. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1624314533/)
 
 3. .[Level order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1624354047/)
+
+4. [Iterative Pre Order Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/1626228897/)
