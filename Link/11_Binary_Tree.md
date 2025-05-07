@@ -5,3 +5,5 @@
 3. .[Level order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1624354047/)
 
 4. [Iterative Pre Order Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/1626228897/)
+
+5. [Iterative post order using two stack](https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/1627946934/)
