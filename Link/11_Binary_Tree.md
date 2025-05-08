@@ -7,3 +7,5 @@
 4. [Iterative Pre Order Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/1626228897/)
 
 5. [Iterative post order using two stack](https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/1627946934/)
+
+6. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/1628792078/)
