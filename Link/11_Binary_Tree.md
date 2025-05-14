@@ -15,3 +15,5 @@
 8. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/submissions/1633457162/)
 
 9. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/submissions/1633495236/)
+
+10. [Binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/submissions/1633507824/)
