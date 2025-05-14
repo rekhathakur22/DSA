@@ -13,3 +13,5 @@
 7. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/1628792078/)
 
 8. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/submissions/1633457162/)
+
+9. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/submissions/1633495236/)
