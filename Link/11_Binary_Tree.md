@@ -9,3 +9,5 @@
 5. [Iterative post order using two stack](https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/1627946934/)
 
 6. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/1628792078/)
+
+7. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/submissions/1633457162/)
