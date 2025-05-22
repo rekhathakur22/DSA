@@ -25,3 +25,5 @@
 13. [vertical order traversal](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/submissions/1641192932/)
 
 14. [Top view of Binary Tree](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1)
+
+15. [Bottom view of Binary Tree](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)
