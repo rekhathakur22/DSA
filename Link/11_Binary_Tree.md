@@ -19,3 +19,5 @@
 10. [Binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/submissions/1633507824/)
 
 11. [Check two trees are identical or not](https://leetcode.com/problems/same-tree/)
+
+12. [Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/1640861584/)
