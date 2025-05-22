@@ -21,3 +21,5 @@
 11. [Check two trees are identical or not](https://leetcode.com/problems/same-tree/)
 
 12. [Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/1640861584/)
+
+13. [vertical order traversal](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/submissions/1641192932/)
