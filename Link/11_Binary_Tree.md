@@ -27,3 +27,5 @@
 14. [Top view of Binary Tree](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1)
 
 15. [Bottom view of Binary Tree](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)
+
+16. [right view](https://leetcode.com/problems/binary-tree-right-side-view/description/)
