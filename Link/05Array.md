@@ -10,7 +10,7 @@ Basic
 
 5.[Array Subset of another array](https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1)
 
-6.[Majority Element(moores voting algorithm)](https://leetcode.com/problems/majority-element/description/)
+6.[Majority Element(moores voting algorithm)](https://www.geeksforgeeks.org/problems/majority-element-1587115620/1)
 
 
 Medium 
