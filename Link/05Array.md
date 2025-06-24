@@ -18,7 +18,7 @@ Basic
 10.[longest_possible_subarray](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=longest-sub-array-with-sum-k)
 
 
-12.[moores voting algorithm](https://leetcode.com/problems/majority-element/description/)
+12.[Majority Element(moores voting algorithm)](https://leetcode.com/problems/majority-element/description/)
 
 14.[stock buy and sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/39038/kadane-s-algorithm-since-no-one-has-mentioned-about-this-so-far-in-case-if-interviewer-twists-the-input/)
 
