@@ -64,6 +64,8 @@ Two pointer
 6.[move all zeros to the end](https://leetcode.com/problems/move-zeroes/submissions/1395778272/)
 
 
+
+
 Sliding Window
 
 1.[Minimum swaps and k together](https://www.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together4847/1)
