@@ -2,13 +2,15 @@ Basic
 
 1.[find largest element ](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/0?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=largest-element-in-array)
 
-2.[Majority Element(moores voting algorithm)](https://leetcode.com/problems/majority-element/description/)
+2.[Triplet Sum](https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1)
 
 3.[stock buy and sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/39038/kadane-s-algorithm-since-no-one-has-mentioned-about-this-so-far-in-case-if-interviewer-twists-the-input/)
 
 4.[Palindromic Array](https://www.geeksforgeeks.org/problems/palindromic-array-1587115620/1)
 
 5.[Array Subset of another array](https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1)
+
+6.[Majority Element(moores voting algorithm)](https://leetcode.com/problems/majority-element/description/)
 
 
 Medium 
