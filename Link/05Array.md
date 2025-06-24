@@ -2,35 +2,36 @@ Basic
 
 1.[find largest element ](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/0?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=largest-element-in-array)
 
-2.[find second largest element](https://www.geeksforgeeks.org/problems/second-largest3735/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=second-largest)
+2.[Majority Element(moores voting algorithm)](https://leetcode.com/problems/majority-element/description/)
 
-3.[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)
+3.[stock buy and sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/39038/kadane-s-algorithm-since-no-one-has-mentioned-about-this-so-far-in-case-if-interviewer-twists-the-input/)
 
+4.[Palindromic Array](https://www.geeksforgeeks.org/problems/palindromic-array-1587115620/1)
 
-5[right rotate the array by k place](https://leetcode.com/problems/rotate-array/submissions/1393304246/)
-
-7.[find union of two array ](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=union-of-two-sorted-arrays)
-
-8.[find missing number from array](https://leetcode.com/problems/missing-number/)
-
-9[single number](https://leetcode.com/problems/single-number/)
-
-10.[longest_possible_subarray](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=longest-sub-array-with-sum-k)
+5.[Array Subset of another array](https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1)
 
 
-12.[Majority Element(moores voting algorithm)](https://leetcode.com/problems/majority-element/description/)
+Medium 
 
-14.[stock buy and sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/39038/kadane-s-algorithm-since-no-one-has-mentioned-about-this-so-far-in-case-if-interviewer-twists-the-input/)
+1.[find second largest element](https://www.geeksforgeeks.org/problems/second-largest3735/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=second-largest)
 
-15.[Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)
+2.[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)
 
-16.[find leaders IN array](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=leaders-in-an-array)
+3.[right rotate the array by k place](https://leetcode.com/problems/rotate-array/submissions/1393304246/)
 
-17.[Palindromic Array](https://www.geeksforgeeks.org/problems/palindromic-array-1587115620/1)
+4.[find union of two array ](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=union-of-two-sorted-arrays)
 
-18.[Array Subset of another array](https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1)
+5.[find missing number from array](https://leetcode.com/problems/missing-number/)
 
-19.[Missing And Repeating](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=find-missing-and-repeating)
+6.[single number](https://leetcode.com/problems/single-number/)
+
+7.[longest_possible_subarray](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=longest-sub-array-with-sum-k)
+
+8.[Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)
+
+9.[find leaders IN array](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=leaders-in-an-array)
+
+10.[Missing And Repeating](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=find-missing-and-repeating)
 
 Kadanes Algorithm
 
