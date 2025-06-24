@@ -68,6 +68,10 @@ Two pointer
 
 Sliding Window
 
+NOTES
+
+Think about sliding window if the question is form subarray
+
 1.[Minimum swaps and k together](https://www.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together4847/1)
 
 
