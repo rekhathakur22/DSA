@@ -18,4 +18,4 @@ Medium
 
 9.[pow(x,n)](https://leetcode.com/problems/powx-n/description/)
 
-10.[Print all prime Numbers(Sieve of Eratosthenes)](https://www.geeksforgeeks.org/problems/find-prime-numbers-in-a-range4718/1)
+10.[ Print all prime Numbers(Sieve of Eratosthenes)](https://www.geeksforgeeks.org/problems/find-prime-numbers-in-a-range4718/1)
