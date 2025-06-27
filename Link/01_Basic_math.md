@@ -8,8 +8,6 @@
 
 5.[Sum_of_all_devisor](https://www.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/1)
 
-7.[Print prime Numbers]()
-
 6.[GCD&LCM](https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1)
 
 7.[print all the divisors](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1)
@@ -19,3 +17,5 @@
 Medium 
 
 9.[pow(x,n)](https://leetcode.com/problems/powx-n/description/)
+
+10.[Print all prime Numbers(Sieve of Eratosthenes)](https://www.geeksforgeeks.org/problems/find-prime-numbers-in-a-range4718/1)
