@@ -83,6 +83,8 @@ Matrix
 
 3.[  Find a peak element ||](https://leetcode.com/problems/find-a-peak-element-ii/submissions/1678941453/)
 
+4.[  Midian is row wise sorted matrix](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)
+
 
 
 
