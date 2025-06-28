@@ -71,17 +71,17 @@ Sliding Window
 
 note: Think about sliding window if the question is form subarray
 
-1.[Minimum swaps and k together](https://www.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together4847/1)
+1.[  Minimum swaps and k together](https://www.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together4847/1)
 
-2.[Minimun size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
+2.[  Minimun size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
 
 Matrix
 
-1.[Binary search on 2D array](https://leetcode.com/problems/search-a-2d-matrix/submissions/1676712240/)
+1.[  Binary search on 2D array](https://leetcode.com/problems/search-a-2d-matrix/submissions/1676712240/)
 
-2.[Search a 2D matrix ||](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+2.[  Search a 2D matrix ||](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 
-3.[Find a peack element ||](https://leetcode.com/problems/find-a-peak-element-ii/submissions/1678941453/)
+3.[  Find a peack element ||](https://leetcode.com/problems/find-a-peak-element-ii/submissions/1678941453/)
 
 
 
