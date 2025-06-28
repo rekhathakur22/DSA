@@ -79,6 +79,8 @@ Matrix
 
 1.[Binary search on 2D array](https://leetcode.com/problems/search-a-2d-matrix/submissions/1676712240/)
 
+2.[Search a 2D matrix ||](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+
 
 
 
