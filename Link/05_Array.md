@@ -81,6 +81,8 @@ Matrix
 
 2.[Search a 2D matrix ||](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 
+3. [Find a peack element ||](https://leetcode.com/problems/find-a-peak-element-ii/submissions/1678941453/)
+
 
 
 
