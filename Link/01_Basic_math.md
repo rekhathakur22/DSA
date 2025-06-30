@@ -1,4 +1,6 @@
 1.[factorial of large numbers](https://www.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1)
+
+2.[Arithmatic Number](https://www.geeksforgeeks.org/problems/arithmetic-number2815/1)
    
 2.[Armstrong_Number](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1)
 
