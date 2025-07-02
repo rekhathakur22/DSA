@@ -87,6 +87,8 @@ Matrix
 
 5. [Spiral matrix](https://leetcode.com/problems/spiral-matrix/?envType=problem-list-v2&envId=matrix)
 
+6. [Rotate image](https://leetcode.com/problems/rotate-image/description/?envType=problem-list-v2&envId=matrix)
+
 
 
 
