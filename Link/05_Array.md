@@ -85,7 +85,7 @@ Matrix
 
 4.[  Midian is row wise sorted matrix](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)
 
-5.[Spiral matrix](https://leetcode.com/problems/spiral-matrix/?envType=problem-list-v2&envId=matrix)
+5.[  Spiral matrix](https://leetcode.com/problems/spiral-matrix/?envType=problem-list-v2&envId=matrix)
 
 
 
