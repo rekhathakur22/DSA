@@ -89,6 +89,8 @@ Matrix
 
 6. [Rotate image](https://leetcode.com/problems/rotate-image/description/?envType=problem-list-v2&envId=matrix)
 
+7. [Valid sudoku][https://leetcode.com/problems/valid-sudoku/?envType=problem-list-v2&envId=matrix]
+
 
 
 
