@@ -91,6 +91,8 @@ Matrix
 
 7. [Valid sudoku](https://leetcode.com/problems/valid-sudoku/?envType=problem-list-v2&envId=matrix)
 
+8. [Set matrix 0](https://leetcode.com/problems/set-matrix-zeroes/description/?envType=problem-list-v2&envId=matrix)
+
 
 
 
