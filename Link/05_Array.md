@@ -96,7 +96,7 @@ Matrix
 
 Binary Search
 
-1.[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1693333405/)
+ 1.[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1693333405/)
 
 
 
