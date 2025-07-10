@@ -94,9 +94,9 @@ Matrix
 8. [Set matrix 0](https://leetcode.com/problems/set-matrix-zeroes/description/?envType=problem-list-v2&envId=matrix)
 
 
-   Binary Search
+Binary Search
 
-   1.[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1693333405/)
+1.[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1693333405/)
 
 
 
