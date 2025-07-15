@@ -93,7 +93,8 @@ Matrix
 
 8. [Set matrix 0](https://leetcode.com/problems/set-matrix-zeroes/description/?envType=problem-list-v2&envId=matrix)
 
-Merge Sort
+Divide and Conquer
+
 1. [Merge Sort]()
 
 2. [Count Inversion](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1)
