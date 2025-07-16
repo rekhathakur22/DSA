@@ -99,6 +99,8 @@ Divide and Conquer
 
 2. [Count Inversion](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1)
 
+3. [Reverse Pair](https://leetcode.com/problems/reverse-pairs/)
+
 Binary Search
 
  1. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1693333405/)
