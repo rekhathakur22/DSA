@@ -39,6 +39,10 @@ Kadanes Algorithm
 
 1. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 
+Dutch National Flag Algorithm
+
+1.[Sort Colors](https://leetcode.com/problems/sort-colors/description/)
+
 Medium
 
 1. [pascals triangle](https://leetcode.com/problems/pascals-triangle/)
