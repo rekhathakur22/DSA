@@ -111,6 +111,10 @@ Binary Search
 
  1. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1693333405/)
 
+Concept
+
+1. [Next Permutation](https://leetcode.com/problems/next-permutation/description/)
+
 
 
 
