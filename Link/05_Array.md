@@ -29,7 +29,7 @@ Medium
 
 7. [longest_possible_subarray](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=longest-sub-array-with-sum-k)
 
-8. [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)
+
 
 9. [find leaders IN array](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=leaders-in-an-array)
 
@@ -66,6 +66,8 @@ Two pointer
 4. [remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 
 6. [move all zeros to the end](https://leetcode.com/problems/move-zeroes/submissions/1395778272/)
+
+7. [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)
 
 
 
