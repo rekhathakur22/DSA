@@ -115,6 +115,8 @@ Concept
 
 1. [Next Permutation](https://leetcode.com/problems/next-permutation/description/)
 
+2. [Longest Consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/submissions/1706651532/)
+
 
 
 
