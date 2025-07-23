@@ -111,11 +111,16 @@ Binary Search
 
  1. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1693333405/)
 
+Prefix / Suffix sum
+
+1. [Longest Consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/submissions/1706651532/)
+
 Concept
 
 1. [Next Permutation](https://leetcode.com/problems/next-permutation/description/)
 
-2. [Longest Consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/submissions/1706651532/)
+
+   
 
 
 
