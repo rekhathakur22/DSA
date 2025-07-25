@@ -115,6 +115,8 @@ Prefix / Suffix sum
 
 1. [Longest Consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/submissions/1706651532/)
 
+2. [Largest subarray with 0 sum](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
+
 Concept
 
 1. [Next Permutation](https://leetcode.com/problems/next-permutation/description/)
