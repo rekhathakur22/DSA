@@ -125,6 +125,8 @@ Concept
 
 2. [Pascals Triangle](https://leetcode.com/problems/pascals-triangle/)
 
+3. [Maximum Product subarray](https://leetcode.com/problems/maximum-product-subarray/submissions/1710420090/)
+
 
    
 
