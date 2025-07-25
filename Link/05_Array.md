@@ -117,6 +117,8 @@ Prefix / Suffix sum
 
 2. [Largest subarray with 0 sum](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
 
+3. [Count subarray with given xor](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1)
+
 Concept
 
 1. [Next Permutation](https://leetcode.com/problems/next-permutation/description/)
