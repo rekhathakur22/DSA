@@ -119,6 +119,8 @@ Concept
 
 1. [Next Permutation](https://leetcode.com/problems/next-permutation/description/)
 
+2. [Pascals Triangle](https://leetcode.com/problems/pascals-triangle/)
+
 
    
 
