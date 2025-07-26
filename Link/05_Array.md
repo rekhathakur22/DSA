@@ -111,6 +111,8 @@ Binary Search
 
  1. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1693333405/)
 
+ 2. [Koko eating banana](https://leetcode.com/problems/koko-eating-bananas/?source=submission-ac)
+
 Prefix / Suffix sum
 
 1. [Longest Consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/submissions/1706651532/)
