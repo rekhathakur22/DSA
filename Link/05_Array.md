@@ -115,6 +115,8 @@ Binary Search
 
  3. [Minimum number of Days to make m bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/submissions/1097188520/)
 
+ 4. [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
+
 Prefix / Suffix sum
 
 1. [Longest Consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/submissions/1706651532/)
