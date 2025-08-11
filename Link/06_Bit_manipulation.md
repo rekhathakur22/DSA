@@ -7,3 +7,5 @@
 4. [Number is odd or even](https://www.geeksforgeeks.org/problems/odd-or-even3618/1)
 
 5. [Power of 2](https://leetcode.com/problems/power-of-two/description/)
+
+6. [Count number of set bits](https://www.geeksforgeeks.org/problems/set-bits0143/1)
